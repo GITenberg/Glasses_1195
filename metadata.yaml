@@ -1,0 +1,33 @@
+_repo: Glasses_1195
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: James' "Glasses" is about a beautiful young woman, Flora Saunt, so vain
+  that she refuses to wear glasses. Failing to conceal her deteriorating eyesight
+  from her aristocratic suitor, she is forced to marry a rejected lover who, himself
+  blinded by love, has fallen for her "at first sight". By marrying her he allows
+  her, now totally blind, to continue to pose without the disfigurement of glasses.
+gutenberg_issued: '1998-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1195'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Eyeglasses -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Pride and vanity -- Psychological aspects -- Fiction'
+- !lcsh 'Blindness -- Fiction'
+- GITenberg
+title: Glasses
+url: http://www.gutenberg.org/ebooks/1195
